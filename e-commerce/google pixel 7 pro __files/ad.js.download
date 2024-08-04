@@ -1,0 +1,87 @@
+/*_a_d_yes__*/
+if (typeof adserver_emissions != 'object') adserver_emissions = {};
+adserver_emissions['NM_Top _desk_mob_'] = true;
+if (typeof adserver_emissions2 != 'object') adserver_emissions2 = {};
+adserver_emissions2['ricehkhkgv'] = true;
+if (typeof ado==="object" && ado.beginCreative) {var _ado_elem = ado.beginCreative({id:'BxiVt_rC7b6VOSpyEpXIFWhX7ryYVJtYdTlrmzmlB1D.U7', arg:'', isEmpty:0});}
+!function(e){var n;n="gao",typeof window[n]==e&&(window[n]={}),typeof _gao_insdwl!=e&&typeof _gao_insdwl.init!=e||typeof gao.aoInscreenHit!=e||document.write('<script src="https://port80adge.hit.gemius.pl/gdejs/xgde.js"><\/script>'),"function"!=typeof gao.inscreenRegisterElement&&(gao.inscreenRegisterElement=function(n,o){typeof gao.aoInscreenHit!=e&&"string"==typeof o&&typeof gao.aoInscreenHit[o]!=e&&(window._gdeaq=window._gdeaq||[],window._gdeaq.push(["inscreen",gao.aoInscreenHit[o],n]),delete gao.aoInscreenHit[o])}),typeof gao.aoInscreenHit==e&&(gao.aoInscreenHit={}),gao.aoInscreenHit["btlhjmnpxnxmojgsjronkosv"]="https://port80adge.hit.gemius.pl/_[TIMESTAMP]/redot.gif?id=pxabuzMypCRerwBxFp6Orbb.PxN8q_8G3dbqjI4xgfT.Z7/nc=0/stparam=njenhwfsgv/sarg=6683D90AE764B6CC%7Ctbc%3A;/inner=_ch_arch%3Dx86%7C_ch_pm%3DWindows%7C_ch_pver%3D10.0.0%7C_ch_bits%3D64%7C_ch_mobile%3D0%7C_ch_wow64%3D0%7C_ch_brands%3D%7B%22Not%2FA)Brand%22%2C%228.0.0.0%22%7D%2C%7B%22Chromium%22%2C%22126.0.6478.127%22%7D%2C%7B%22Google%20Chrome%22%2C%22126.0.6478.127%22%7D%7Cao_uniq%3Dbtlhjmnpxnxmojgsdedgicfh%7C;"}("undefined");
+(function(u){if(parseInt(localStorage.getItem('_ao_gstr_sync')||0)<(Date.now()-10*1000)){localStorage.setItem('_ao_gstr_sync',Date.now());new Image(1,1).src=u;}})('https://green.erne.co/adocean/cm/?redirect=https%3A%2F%2Fport80ge%2Eadocean%2Epl%2Fad%2Ejs%3Fid%3DjPIGHYMWkuMAzPCX316SEpOaXVd6LMbfnngIQo9e7OL%2EM7%26index%3D1273%26userid%3D%3CCLOUDTECHNOLOGIES%5FUSER%5FID%3E');
+
+(function() {
+    var gao = window.gao || (window.gao = {});
+    if (typeof gao.responsiveBillboardv2 !== "object") gao.responsiveBillboardv2 = [];
+
+    var config = {
+        unique: "btlhjmnpxnxmojgsjronkosv",
+        targetID: "gaoresbtlhjmnpxnxmojgsjronkosv",
+
+		condEmission: 0,
+		smoothTransition: 0,
+		hitSrc: [[{type: "commit", url:""},"https://port80adge.hit.gemius.pl/_[TIMESTAMP]/redot.js/id=pxabuzMypCRerwBxFp6Orbb.PxN8q_8G3dbqjI4xgfT.Z7/nc=0/stparam=thgqqlsiqf/fastid=kswhkjfnfdmtofnnjnniptwfsblp/sarg=6683D90AE764B6CC%7Ctbc%3A;/inner=_ch_arch%3Dx86%7C_ch_pm%3DWindows%7C_ch_pver%3D10.0.0%7C_ch_bits%3D64%7C_ch_mobile%3D0%7C_ch_wow64%3D0%7C_ch_brands%3D%7B%22Not%2FA)Brand%22%2C%228.0.0.0%22%7D%2C%7B%22Chromium%22%2C%22126.0.6478.127%22%7D%2C%7B%22Google%20Chrome%22%2C%22126.0.6478.127%22%7D%7Cao_uniq%3Dbtlhjmnpxnxmojgsdedgicfh%7C;/extra=;"]],
+		sendHits: (function(){(function(){var c=window;c._AO_sendHits=function(g,k){var e={g:function(b){return b.split('[TIMESTAMP]').join((new Date).getTime())},f:function(b){if('object'!==typeof b)return b;var a=b.url;'commit'===b.type&&''!==a&&(a.match(/[&/]$/)||(a+='&'),a+='url=');return a},h:function(b,a){if('[object Array]'===Object.prototype.toString.call(b)&&0<b.length){for(var d='',c=b.length-1;0<c;c--){var f=c-1===a?function(a){return a}:encodeURIComponent;b[c]&&(d=f(e.g(e.f(b[c]))+d))}return d=e.g(e.f(b[0]))+d}},l:function(b,
+a){a=e.h(b,a);if(!a)try{console.warn('AO: invalid hit chain',b)}catch(l){}else if(!c.navigator.sendBeacon||!c.navigator.sendBeacon(a,''))return a}},d={m:function(b){d.i(function(){for(var a=0;a<b.length;a++)b[a]&&d.a.contentWindow.s(b[a])})},a:null,c:[],j:function(){var b=c.document.getElementById('AO-hit');b&&'iframe'==b.tagName.toLowerCase()&&(d.a=b,d.c=b.b)},i:function(b){d.a||d.j();d.c.push(b);if(!d.a){var a=d.a=c.document.createElement('iframe');a.id='AO-hit';a.b=d.c;a.onload=function(){a.onload=
+null;var b=a.contentWindow.document;b.open();b.write('<scr'+'ipt>window.s=function(u){(new Image(1,1)).src=u}</scr'+'ipt>');try{b.close()}catch(m){}for(;a.b.length;)a.b.shift()();a.b={push:function(a){a()}}};a.src='javascript:false';a.width=a.height=a.frameBorder=a.style.border=0;a.style.display='none';c.document.getElementsByTagName('body')[0].appendChild(a)}}};if('object'===typeof c.ado&&c.ado&&'function'===typeof c.ado.sendHits)c.ado.sendHits(g);else{var f,h=[];for(f=0;f<g.length;f++)h.push(e.l(g[f],
+k));d.m(h)}}})();return function(c){var a=window,b=a.parent;(a._AO_sendHits?a._AO_sendHits:a.inAOFIF&&b._AO_sendHits?b._AO_sendHits:function(){})(c,0)}})(),
+		clickTag: "https://port80adge.hit.gemius.pl/hitredir/id=pxabuzMypCRerwBxFp6Orbb.PxN8q_8G3dbqjI4xgfT.Z7/nc=0/stparam=qingejmnwa/fastid=njoikqraelhddmfjmaxeubpyqbjx/sarg=6683D90AE764B6CC%7Ctbc%3A;/inner=_ch_arch%3Dx86%7C_ch_pm%3DWindows%7C_ch_pver%3D10.0.0%7C_ch_bits%3D64%7C_ch_mobile%3D0%7C_ch_wow64%3D0%7C_ch_brands%3D%7B%22Not%2FA)Brand%22%2C%228.0.0.0%22%7D%2C%7B%22Chromium%22%2C%22126.0.6478.127%22%7D%2C%7B%22Google%20Chrome%22%2C%22126.0.6478.127%22%7D%7Cao_uniq%3Dbtlhjmnpxnxmojgsdedgicfh%7C;/extra=;/url=" + encodeURIComponent("https://auction.livo.ge/?utm_source=ecodisplay&utm_medium=Myhome&utm_campaign=&utm_content=Header_Desk"),
+		redirection: 'clickTag='+encodeURIComponent('https://port80adge.hit.gemius.pl/hitredir/id=pxabuzMypCRerwBxFp6Orbb.PxN8q_8G3dbqjI4xgfT.Z7/nc=0/stparam=qingejmnwa/fastid=njoikqraelhddmfjmaxeubpyqbjx/sarg=6683D90AE764B6CC%7Ctbc%3A;/inner=_ch_arch%3Dx86%7C_ch_pm%3DWindows%7C_ch_pver%3D10.0.0%7C_ch_bits%3D64%7C_ch_mobile%3D0%7C_ch_wow64%3D0%7C_ch_brands%3D%7B%22Not%2FA)Brand%22%2C%228.0.0.0%22%7D%2C%7B%22Chromium%22%2C%22126.0.6478.127%22%7D%2C%7B%22Google%20Chrome%22%2C%22126.0.6478.127%22%7D%7Cao_uniq%3Dbtlhjmnpxnxmojgsdedgicfh%7C;/extra=;/url='+'https://auction.livo.ge/?utm_source=ecodisplay&utm_medium=Myhome&utm_campaign=&utm_content=Header_Desk'),
+		creatives: [{
+			width:  '728',
+			height:  '90',
+			html5: '',
+			clickTagOverlay: 1,
+			imageFile: 'https://port80ge.adocean.pl/files/x/nok/fejghjp/uoqhovdisi/728x90.png',
+			htmlCode: '',
+			bound:  728
+		}, {
+			width:  '320',
+			height:  '100',
+			html5: '',
+			clickTagOverlay: 1,
+			imageFile: 'https://port80ge.adocean.pl/files/x/nok/fejghjp/rphobtnmnd/320x90.png',
+			htmlCode: '',
+			bound:  320
+		}, {
+			width:  '320',
+			height:  '140',
+			html5: '',
+			clickTagOverlay: 1,
+			imageFile: '',
+			htmlCode: '',
+			bound:  320
+		}, {
+			width:  '300',
+			height:  '60',
+			html5: '',
+			clickTagOverlay: 0,
+			imageFile: '',
+			htmlCode: '',
+			bound:  0
+		}, {
+			width: '100%',
+			height: 'auto',
+			html5: '',
+			imageFile: '',
+			htmlCode: '',
+			bound: 0
+		}],
+
+		advertisingData: {
+            display: 0,
+            isAd: "",
+            message: "The advertisement is promoted by the  and sponsored by the . In order to adjust the content of the advertisement to your interests and optimize its display, we use cookies and technical information such as the type of browser, visited pages, or IP address. If you do not want data such as cookies to be used for advertising purposes, you can disable them here: http://privacypolicy.gemius.com/en/"
+        },
+
+        additionalHtml: ""
+    };
+
+    +function() {
+
+    }();
+
+    gao.responsiveBillboardv2.push(config);
+})();
+
+document.write('<scr'+'ipt src="https://port80ge.adocean.pl/files/js/responsive_billboard_v2_gao_lib.js"></scr'+'ipt>');
+if (typeof ado==="object" && ado.endExternal){ ado.endExternal(); }
+
+

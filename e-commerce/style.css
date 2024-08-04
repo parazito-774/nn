@@ -1,0 +1,125 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 3px 4px 1px 2px  rgb(rgb(105, 6, 6), green, blue);
+    height: 80px;
+    align-items: center;
+    background-color: rgba(237,235,235,0.74);
+    padding: 0px 120px;
+    box-shadow: 3px 0.5px 1px 1px ;
+}
+
+
+.nav_list{
+    display: flex;
+    gap: 20px;
+    
+
+   
+}
+
+ul li a{
+    color: orange;
+    font-size: 18px;
+    font-weight: 700;
+    
+}
+ a:hover{
+    color: black;
+    border-bottom: 1px solid;
+ }
+.logo{
+    height: 80px;
+    
+}
+
+.btn{
+    font-size: 14px;
+    font-weight: 500px;
+    color: white;
+    letter-spacing: 1px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgb(231, 169, 53);
+    cursor: pointer;
+}
+
+.btn:hover{
+    opacity: 0,1;
+    color: blue;
+
+}
+
+.prodact_container{
+    display: flex;
+    
+}
+
+.prodact_card{
+    width: 200px;
+    
+
+}
+.prodact{
+    width: 100%;
+}
+
+.sub{
+    background-color: orange;
+    border: none;
+    padding: 5px 8px;
+    color: white;
+    font-weight: 700;
+    font-size: 12px;
+    border-radius: 15px;
+}
+
+.price_box{
+    display: flex;
+    gap: 12px;
+} 
+
+.first{
+    color: orange;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+}
+
+.second{
+    font-size: 12px;
+    text-decoration: line-through;
+
+}
+
+.p{
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 1px;
+    margin: 4px 0;
+
+}
+ 
+.compare{ 
+    background-color: rgb(214, 209, 209);
+    width: 40px;
+    height: 40px;
+    
+}
+
+.icons{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.btn_icon{
+    width: 70px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: orangered;
+    padding: 10px;
+}
